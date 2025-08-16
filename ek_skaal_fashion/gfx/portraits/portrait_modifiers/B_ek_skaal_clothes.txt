@@ -238,6 +238,12 @@
                 template = ccp4_khanty_commoner_clothes
                 range = { 0 1 } # For the randomness to work correctly
             }
+	        accessory = {
+	            mode = add
+	            gene = legwear
+	            template = fp1_common_legwear
+	            range = { 0 1 }
+	        }		
         }
         weight = {
             base = 0
@@ -258,6 +264,12 @@
                 template = ccp4_khanty_low_nobility_clothes
                 range = { 0 1 } # For the randomness to work correctly
             }
+	        accessory = {
+	            mode = add
+	            gene = legwear
+	            template = fp1_common_legwear
+	            range = { 0 1 }
+	        }		
         }
         weight = {
             base = 0
@@ -284,6 +296,12 @@
                 template = ccp4_khanty_high_nobility_clothes
                 range = { 0 1 } # For the randomness to work correctly
             }
+	        accessory = {
+	            mode = add
+	            gene = legwear
+	            template = fp1_common_legwear
+	            range = { 0 1 }
+	        }		
         }
         weight = {
             base = 0
