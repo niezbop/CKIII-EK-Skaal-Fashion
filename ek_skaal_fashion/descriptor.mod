@@ -3,4 +3,5 @@ tags={
 	"Graphics"
 }
 name="Elder Kings - Skaal Fashion"
-supported_version="1.16.2.3"
+supported_version="1.16.*"
+remote_file_id="3550047109"
