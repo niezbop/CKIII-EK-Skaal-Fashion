@@ -1,0 +1,28 @@
+﻿l_english: 
+###################
+### CCP4 Khanty ###
+###################
+
+### Male ###
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_01:0 "@wrath_icon! Skaal Commoner Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_01_hood:0 "@wrath_icon! Skaal Commoner Clothing 1 #weak (for Hoods)#!"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_02:0 "@wrath_icon! Skaal Commoner Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_com_02:0 "@wrath_icon! Skaal High Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_03:0 "@wrath_icon! Skaal Commoner Clothing 3"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_lo_nob_01:0 "@wrath_icon! Skaal Low Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_lo_nob_01_hood:0 "@wrath_icon! Skaal Low Nobility Clothing 1 #weak (for Hoods)#!"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_lo_nob_02:0 "@wrath_icon! Skaal Low Nobility Clothing 2"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_nob_01:0 "@wrath_icon! Skaal High Nobility Clothing 1"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_nob_01_hood:0 "@wrath_icon! Skaal High Nobility Clothing 1 #weak (for Hoods)#!"
+ PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_nob_02:0 "@wrath_icon! Skaal High Nobility Clothing 2"
+
+### Female ###
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_com_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_com_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_com_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_lo_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_lo_nob_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_lo_nob_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_lo_nob_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_hi_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_nob_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_hi_nob_02:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_hi_com_02$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_war_com_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_war_com_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_war_lo_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_war_lo_nob_01$"
+ PORTRAIT_MODIFIER_custom_clothes_f_clothes_sec_ccp4_khanty_war_hi_nob_01:0 "$PORTRAIT_MODIFIER_custom_clothes_m_clothes_sec_ccp4_khanty_war_hi_nob_01$"
